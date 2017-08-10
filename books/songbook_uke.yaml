@@ -1,0 +1,22 @@
+book:
+  lang: en
+  encoding: utf8
+  datadir: ".."
+  pictures: yes
+  template: data.tex
+chords:
+  show: yes
+  diagramreminder: all
+  diagrampage: all
+  repeatchords: yes
+  lilypond: yes
+  instrument: ukulele
+  notation: alphascale
+
+content:
+    sort:
+
+template:
+      default.tex:
+          title: Recueil de chansons pour ukulélé
+                   
