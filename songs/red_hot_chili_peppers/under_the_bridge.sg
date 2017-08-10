@@ -5,16 +5,24 @@
 
   \cover
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{B}{2:X02220}
+  \utab{B}{2:2100}
   \gtab{C#m}{4:X02210}
+  \utab{C#m}{1104}
   \gtab{G#m}{4:022000}
+  \utab{G#m}{1:0231}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
   \gtab*{EM7}{021100}
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{Am7}{X02010}
+  \utab{Am7}{0000}
   \gtab*{G6}{7:X02010}
   \gtab*{FM7}{1:X2110X}
   \gtab{C}{X32010}
+  \utab{C}{0003}
 
   \begin{verse}
     \[E] Sometimes \[B]I feel like I \[C#m]don't have a \[G#m]part\[A]ner

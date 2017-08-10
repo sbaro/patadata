@@ -7,10 +7,15 @@
   \cover
   \capo{2}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
 
   \begin{verse}
     \[Am]{C'était} un homme, un beau un vrai

@@ -5,10 +5,15 @@
 
   \cover
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{C#}{4:X02220}
+  \utab{C#}{1:0003}
 
   \begin{verse*}
     \musicnote{\Intro : \nolyrics{\[F{\shrp}m D A E]} \rep{2}}

@@ -5,13 +5,21 @@
 
   \cover
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{B7}{2:X02020}
+  \utab{B7}{2:0100}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
 
   \begin{verse*}
     \[A]{ Le pape} a \[A7]{dit que} l'acte d'am\[A]our

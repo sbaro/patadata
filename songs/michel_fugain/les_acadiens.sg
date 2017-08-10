@@ -5,13 +5,21 @@
 
   \cover
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
   \gtab{C7}{X32310}
+  \utab{C7}{0001}
   \gtab{F#}{2:022100}
+  \utab{F#}{1:2010}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
 
   \begin{chorus}
     \[G]Tous les Acadiens, toutes les Acadiennes

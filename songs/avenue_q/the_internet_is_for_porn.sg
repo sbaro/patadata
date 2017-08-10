@@ -5,11 +5,16 @@
 
   \cover
   \gtab{E}{7:X02220}
+  \utab{E}{2:2220}
   \gtab{B7}{7:020100}
+  \utab{B7}{2:0100}
   \gtab{F#m}{9:X02210}
+  \utab{F#m}{2120}
   \gtab{A&m}{4:022000}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
   \gtab{B}{7:022100}
+  \utab{B}{2:2100}
 
   \begin{verse}
     \[E]The Internet is \[B7]really, really \[E]great \echo{For porn!}

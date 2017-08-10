@@ -5,14 +5,23 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{E}{X02210}
+  \utab{E}{2:2220}
   \gtab{B7}{X21202}
+  \utab{B7}{2:0100}
   \gtab{C#m}{4:X02210}
+  \utab{C#m}{1104}
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{A}{X02220}
+  \utab{A}{2100}
 
   \begin{verse}
     \[C]Même \[G]en cou\[C]rant

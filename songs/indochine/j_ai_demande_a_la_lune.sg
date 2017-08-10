@@ -5,14 +5,23 @@
 
   \cover
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
   \gtab{C#m}{4:X02210}
+  \utab{C#m}{1104}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{C}{X32010}
+  \utab{C}{0003}
 
   \begin{verse}
     \[A]J'ai de\[E]mandé à la \[F#m]Lune

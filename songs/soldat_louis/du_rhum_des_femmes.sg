@@ -5,8 +5,11 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
 
   \begin{verse*}
     \musicnote{\Intro : \nolyrics{\[C G D G]}}

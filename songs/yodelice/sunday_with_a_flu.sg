@@ -6,8 +6,11 @@
   \cover
   \capo{3}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
 
   \begin{verse*}
     \musicnote{\Intro: \nolyrics{\[Bm G D Bm]}}

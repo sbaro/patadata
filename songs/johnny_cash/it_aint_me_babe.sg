@@ -5,9 +5,13 @@
 
   \cover
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{C}{X32010}
+  \utab{C}{0003}
 
   \begin{verse}
     \[G]Go away from my \[Am]window

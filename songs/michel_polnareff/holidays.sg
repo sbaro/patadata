@@ -5,11 +5,17 @@
 
   \cover
   \gtab{Am}{002210}
+  \utab{Am}{2000}
   \gtab{D}{000232}
+  \utab{D}{2220}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{G}{320003}
+  \utab{G}{0232}
 
   \MultiwordChords 
   \begin{verse}

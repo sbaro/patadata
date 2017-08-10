@@ -5,12 +5,18 @@
 
   \cover
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
   \gtab{G}{320033}
+  \utab{G}{0232}
   \gtab*{Asus2}{X02200}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{C}{X32010}
+  \utab{C}{0003}
 
   \begin{verse}
     \[Bm] I'm tugging at my \[G]hair, I'm pulling at my \[D]clothes

@@ -6,10 +6,14 @@
 
   \cover
   \gtab{Dm}{5:X02210}
+  \utab{Dm}{2210}
   \gtab{B&}{6:022100}
   \gtab{C}{3:X02220}
+  \utab{C}{0003}
   \gtab{Am}{5:022000}
+  \utab{Am}{2000}
   \gtab{Em}{7:X02210}
+  \utab{Em}{0432}
 
   \begin{verse}
     \[Dm]Morte de sécheresse

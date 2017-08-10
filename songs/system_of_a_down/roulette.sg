@@ -5,12 +5,18 @@
 
   \cover
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \gtab{D#}{6:X02220}
+  \utab{D#}{1:2220}
   \gtab{B&}{1:X02220}
   \gtab{C#}{4:X02220}
+  \utab{C#}{1:0003}
   \gtab{G#}{4:022100}
+  \utab{G#}{3:2010}
   \gtab{A#}{6:022100}
+  \utab{A#}{1:2100}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
 
   \begin{verse}
     \[Cm]I have a \[D#]problem that \[B&]I cannot e\[C#]xplain

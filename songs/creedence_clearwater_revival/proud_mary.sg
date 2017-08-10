@@ -5,11 +5,17 @@
 
   \cover
   \gtab{C}{032010}
+  \utab{C}{0003}
   \gtab{A}{002220}
+  \utab{A}{2100}
   \gtab{G}{355433}
+  \utab{G}{0232}
   \gtab{F}{133211}
+  \utab{F}{2010}
   \gtab{D}{X00232}
+  \utab{D}{2220}
   \gtab{Bm}{X24432}
+  \utab{Bm}{2:2000}
 
   \musicnote {\Intro: \nolyrics \[C A C A C A G F G D}
 

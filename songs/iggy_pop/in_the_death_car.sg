@@ -5,8 +5,11 @@
 
   \cover
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{B7}{X21202}
+  \utab{B7}{2:0100}
 
   \lilypond{in_the_death_car}
 

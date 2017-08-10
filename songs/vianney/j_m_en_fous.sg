@@ -6,12 +6,18 @@
   \cover
   \capo{4}
   \gtab{Am7}{X02010}
+  \utab{Am7}{0000}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320033}
+  \utab{G}{0232}
   \gtab{F}{133211}
+  \utab{F}{2010}
   \gtab{Em*}{022010}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
 
   \musicnote{\Intro :{\[Am7 F C G}\rep{2}}
   

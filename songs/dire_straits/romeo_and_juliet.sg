@@ -5,10 +5,14 @@
 
   \cover
   \gtab{F}{5:X32010}
+  \utab{F}{2010}
   \gtab{Dm}{5:X02210}
+  \utab{Dm}{2210}
   \gtab{C}{5:320003}
+  \utab{C}{0003}
   \gtab{B&}{6:022100}
   \gtab{Gm}{5:XX0231}
+  \utab{Gm}{0231}
 
   \begin{verse*}
     \musicnote{\Intro : \nolyrics{\[F Dm] \rep{4} }}

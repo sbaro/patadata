@@ -5,10 +5,15 @@
 
   \cover
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{B7}{X21202}
+  \utab{B7}{2:0100}
   \gtab{E7}{022130}
+  \utab{E7}{1202}
   \gtab{C}{332010}
+  \utab{C}{0003}
 
   \begin{verse}
     \[Em]J'habite seul avec maman

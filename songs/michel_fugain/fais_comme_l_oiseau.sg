@@ -5,12 +5,19 @@
 
   \cover
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Bm7}{2:X02010}
+  \utab{Bm7}{2:0000}
   \gtab{F7}{1:020100}
+  \utab{F7}{2310}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
   \gtab{Am7}{X02010}
+  \utab{Am7}{0000}
   \gtab{Cm7}{3:X02010}
+  \utab{Cm7}{3:0000}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
   \gtab*{Gm7}{3X333X}
   \gtab*{Gm7/F}{1X333X}
   \gtab*{Bbmaj7}{1:X0212X}

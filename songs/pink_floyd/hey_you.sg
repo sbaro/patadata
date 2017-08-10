@@ -11,11 +11,17 @@
   \gtab*{G*}{7:XXX232}
   \gtab*{C*}{3:X02220}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab*{G**}{3:022100}
 
   \lilypond{hey_you}

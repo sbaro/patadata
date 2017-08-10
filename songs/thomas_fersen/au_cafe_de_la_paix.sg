@@ -8,6 +8,7 @@
   \gtab{B&}{1:X02220}
   \gtab*{Gdim}{2:1201XX}
   \gtab{C7}{X32310}
+  \utab{C7}{0001}
   \utab*{F6}{1:1102}
   \utab{B&}{1:2100}
   \utab*{Gdim}{0131}

@@ -5,13 +5,19 @@
 
   \cover
   \gtab{A}{X0X220}
+  \utab{A}{2100}
   \gtab{A&/A}{X4X220}
   \gtab{F#m}{2XX222}
+  \utab{F#m}{2120}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{E*}{4:XX2010}
   \gtab{E}{0XX100}
+  \utab{E}{2:2220}
   \gtab{Bm}{224432}
+  \utab{Bm}{2:2000}
   \gtab{C#m}{4:002210}
+  \utab{C#m}{1104}
 
 
 

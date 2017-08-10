@@ -6,9 +6,13 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
 
   \begin{verse}
     \[C]Quand nous irons dans les bois tous les deux mon a\[G]mour

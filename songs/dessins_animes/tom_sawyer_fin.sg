@@ -5,12 +5,19 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
   \gtab{G7}{320001}
+  \utab{G7}{0212}
 
   \begin{verse}
     \[C]Haut com\[Am]me trois \[F]pom\[G]mes

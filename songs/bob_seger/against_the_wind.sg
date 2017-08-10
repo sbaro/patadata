@@ -5,10 +5,15 @@
 
   \cover
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
 
   \begin{verse}
     \[G] It seems like yesterday

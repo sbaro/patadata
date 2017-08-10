@@ -5,12 +5,18 @@
 
   \cover
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{G}{320002}
+  \utab{G}{0232}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{C7}{X32310}
+  \utab{C7}{0001}
   \gtab{B7/F#}{2X1202}
   \gtab{D7}{X5453X}
+  \utab{D7}{2:0001}
   \gtab{B7}{X21202}
+  \utab{B7}{2:0100}
 
   \begin{verse*}
     \musicnote{\Intro : \nolyrics{\[Em G Am B7/F\shrp, Em G Am C7] \rep{2} }}

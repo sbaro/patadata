@@ -5,10 +5,15 @@
 
   \cover
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
   \gtab{G7}{320001}
+  \utab{G7}{0212}
   \gtab{C}{X32010}
+  \utab{C}{0003}
 
   \begin{verse}
     \[Am]Ton enfance n'a pas tou\[Dm]jours été rose

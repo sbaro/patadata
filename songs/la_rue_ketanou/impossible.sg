@@ -6,10 +6,15 @@
 
   \cover
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{G}{320003}
+  \utab{G}{0232}
 
   \begin{verse}
     \[Am] C'était bien à Ménilmon\[C]tant

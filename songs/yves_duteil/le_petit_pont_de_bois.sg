@@ -5,13 +5,21 @@
 
   \cover
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{B7}{X21202}
+  \utab{B7}{2:0100}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
 
   \begin{verse}
     Tu \[D]te souviens du pont

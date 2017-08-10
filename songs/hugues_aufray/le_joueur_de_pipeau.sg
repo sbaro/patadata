@@ -5,8 +5,11 @@
 
   \cover
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{B&}{1:X02220}
 
   \lilypond{Le_joueur_de_pipeau}

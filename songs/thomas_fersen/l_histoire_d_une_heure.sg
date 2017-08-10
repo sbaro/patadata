@@ -5,8 +5,11 @@
 
   \cover
   \gtab{B7}{2:X02020}
+  \utab{B7}{2:0100}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab*{Edim}{2:XX0131}
   \gtab*{F#dim}{XX4212}
   \utab{B7}{2:0100}

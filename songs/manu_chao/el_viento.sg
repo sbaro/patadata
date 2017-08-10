@@ -5,7 +5,9 @@
 
   \cover
   \gtab{G#m}{4:022000}
+  \utab{G#m}{1:0231}
   \gtab{F#}{2:022100}
+  \utab{F#}{1:2010}
 
   \begin{verse*}
     \musicnote {\Intro \nolyrics \[G{\shrp}m] \[F{\shrp}] \[G{\shrp}m] \[F{\shrp}]}

@@ -6,10 +6,14 @@
   \cover
   \capo{3}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab*{D4}{XX0233}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{C}{X32010}
+  \utab{C}{0003}
 
   \begin{verse*}
     \musicnote{\Intro: \nolyrics{\[G D4 Em D D4 G]}}

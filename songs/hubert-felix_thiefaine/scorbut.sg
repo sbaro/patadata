@@ -5,11 +5,17 @@
 
   \cover
   \gtab{C}{3:X02220}
+  \utab{C}{0003}
   \gtab{Dm}{5:X02210}
+  \utab{Dm}{2210}
   \gtab{Em}{7:X02210}
+  \utab{Em}{0432}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
   \gtab{Am}{5:022000}
+  \utab{Am}{2000}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
 
   \begin{verse}
     \[C]C'est l'histoire d'un pauvre gars courant la gueuse dans les ba\[Dm]luche

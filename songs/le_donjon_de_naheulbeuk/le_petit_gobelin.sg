@@ -6,9 +6,13 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{G7}{320001}
+  \utab{G7}{0212}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
 
   \begin{verse}
     \[C]{C'était} un petit gobelin qui s'en \[G]allait \[G7]à la \[C]plage

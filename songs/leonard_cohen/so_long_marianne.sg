@@ -5,12 +5,18 @@
 
   \cover
   \gtab{A}{002220}
+  \utab{A}{2100}
   \gtab*{Asus4}{002230}
   \gtab{Bm}{2:002210}
+  \utab{Bm}{2:2000}
   \gtab{D}{X00232}
+  \utab{D}{2220}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab*{Esus4}{022200}
 
   \begin{verse}

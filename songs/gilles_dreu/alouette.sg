@@ -5,10 +5,14 @@
 
   \cover
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab*{Am7}{002212}
   \gtab{G7}{320001}
+  \utab{G7}{0212}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
   \gtab{B7}{X21202}
+  \utab{B7}{2:0100}
 
   \begin{verse}
     \[Em]Alouette, alouet\[Am7]te

@@ -5,9 +5,12 @@
 
   \cover
   \gtab{Gm}{3:022100}
+  \utab{Gm}{0231}
   \gtab{B&}{X13331}
   \gtab{B}{X24442}
+  \utab{B}{2:2100}
   \gtab{C}{3:X02220}
+  \utab{C}{0003}
 
   \begin{verse*}
     \musicnote{\Intro : \nolyrics{\[Gm B\flt B C]}}

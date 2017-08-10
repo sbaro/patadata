@@ -6,9 +6,13 @@
   \cover
   \capo{1}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
 
   \begin{verse*}
     \musicnote{\Intro : \nolyrics{\[Em]\[C]\[Em]} \rep{2}}

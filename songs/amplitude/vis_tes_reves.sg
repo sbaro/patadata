@@ -7,10 +7,15 @@
   \cover
 
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{A}{X02220}
+  \utab{A}{2100}
 
   \beginverse
     \nolyrics{\[Em] \[G] \[D] \[A4-7] \[Em]}

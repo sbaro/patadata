@@ -6,8 +6,11 @@
   \cover
   \capo{3}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
 
   \begin{verse*}
     \musicnote{\Intro : \nolyrics{ \[Am] }}

@@ -5,10 +5,15 @@
 
   \cover
   \gtab{Cm}{3:X03320}
+  \utab{Cm}{0333}
   \gtab{A#}{5:033200}
+  \utab{A#}{1:2100}
   \gtab{G#}{4:033200}
+  \utab{G#}{3:2010}
   \gtab{G}{3:033200}
+  \utab{G}{0232}
   \gtab{D#}{6:X03330}
+  \utab{D#}{1:2220}
 
   \begin{verse*} 
     \musicnote {\Intro: \nolyrics \[Cm A\shrp G\shrp G]}

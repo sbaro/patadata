@@ -5,9 +5,13 @@
 
   \cover
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
   \gtab{G}{320003}
+  \utab{G}{0232}
 
   \lilypond{V_la_l_bon_vent}
 

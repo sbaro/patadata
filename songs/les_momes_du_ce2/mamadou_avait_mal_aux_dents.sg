@@ -6,10 +6,15 @@
   \cover
   \capo{5}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
 
   \lilypond{Mamadou_avait_mal_aux_dents}
 

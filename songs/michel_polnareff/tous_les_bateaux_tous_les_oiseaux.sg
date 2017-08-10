@@ -5,12 +5,17 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Bm7}{X00202}
+  \utab{Bm7}{2:0000}
   \gtab{Am}{002210}
+  \utab{Am}{2000}
   \gtab{Am7M}{1:X02110}
   \gtab{F#dim}{XX2323}
+  \utab{F#dim}{2020}
   \gtab{Dm6}{XX0201}
   \gtab{E7}{030100}
+  \utab{E7}{1202}
   \gtab{D9}{XX0210}
 
   \MultiwordChords 

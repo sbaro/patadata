@@ -5,10 +5,15 @@
 
   \cover
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{C#m}{4:X02210}
+  \utab{C#m}{1104}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
   \gtab{B}{7:022100}
+  \utab{B}{2:2100}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
 
   \begin{verse}
     \[F#m]Hé y'a quelqu'un

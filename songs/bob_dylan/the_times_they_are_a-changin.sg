@@ -5,12 +5,19 @@
 
   \cover
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
   \gtab{G7}{320001}
+  \utab{G7}{0212}
 
   \begin{verse}
     Come \[G]gather 'round \[Em]people

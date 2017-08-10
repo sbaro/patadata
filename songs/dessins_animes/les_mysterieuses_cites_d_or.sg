@@ -5,10 +5,15 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{G}{320003}
+  \utab{G}{0232}
 
   \begin{verse}
     Enfant \[C]du soleil

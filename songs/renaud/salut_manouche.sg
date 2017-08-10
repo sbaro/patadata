@@ -5,10 +5,15 @@
 
   \cover
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{B}{2:X02220}
+  \utab{B}{2:2100}
 
   \begin{verse}
     \[Em]Quand tu t'es pointé sur la zone

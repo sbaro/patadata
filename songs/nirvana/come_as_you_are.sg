@@ -5,10 +5,15 @@
 
   \cover
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{D}{X00232}
+  \utab{D}{2220}
   \gtab{G}{320001}
+  \utab{G}{0232}
   \gtab{A}{002220}
+  \utab{A}{2100}
   \gtab{C}{X32010}
+  \utab{C}{0003}
 
   \begin{verse}
     \[Em]Come as you \[D]are

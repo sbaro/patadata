@@ -5,12 +5,17 @@
 
   \cover
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \gtab{D7}{3:X2120X}
+  \utab{D7}{2:0001}
   \gtab{E&}{6:X02220}
   \gtab{B&}{6:022100}
   \gtab{Dm}{5:X02210}
+  \utab{Dm}{2210}
   \gtab{D}{5:X02220}
+  \utab{D}{2220}
 
   \begin{verse}
     \[Gm]Hoy en mi ventana brilla el \[Cm]sol

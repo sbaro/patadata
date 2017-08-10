@@ -7,16 +7,25 @@
   \gtab{AM7}{X02120}
   \gtab{Bb7}{X13131}
   \gtab{Bm7}{X24232}
+  \utab{Bm7}{2:0000}
   \gtab{E7}{022130}
+  \utab{E7}{1202}
   \gtab{F#m7}{24222X}
+  \utab{F#m7}{2:0202}
   \gtab{Am7}{X02010}
+  \utab{Am7}{0000}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
   \gtab{GM7}{3X443X}
   \gtab{Gm7}{3X333X}
+  \utab{Gm7}{0211}
   \gtab{C7/9}{X3233X}
   \gtab{F7}{13121X}
+  \utab{F7}{2310}
   \gtab{C#m7}{X4645X}
+  \utab{C#m7}{4:0000}
   \gtab{C7}{X3X35X}
+  \utab{C7}{0001}
   \gtab{B7/4}{X2X25X}
   \gtab{Bb7b5}{X1213X}
   \gtab{DM7}{XX0222}

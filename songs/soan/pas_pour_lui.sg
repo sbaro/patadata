@@ -5,12 +5,18 @@
 
   \cover
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{B&}{1:X02220}
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{Em}{7:X02210}
+  \utab{Em}{0432}
   \gtab{B}{7:022100}
+  \utab{B}{2:2100}
   \gtab{C}{3:X02220}
+  \utab{C}{0003}
 
   \begin{verse}
     Je te pr\[Dm]omets des yeux

@@ -6,13 +6,21 @@
 
   \cover
   \gtab{G}{3:022100}
+  \utab{G}{0232}
   \gtab{D7}{3:X2120X}
+  \utab{D7}{2:0001}
   \gtab{C}{3:X02220}
+  \utab{C}{0003}
   \gtab{D}{5:X02220}
+  \utab{D}{2220}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{B7}{X21202}
+  \utab{B7}{2:0100}
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
 
   \begin{verse}
     \[G]Ce week-end pour faire la fête

@@ -6,17 +6,26 @@
   \cover
   \capo{7}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{B}{2:X02220}
+  \utab{B}{2:2100}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{B&}{1:X02220}
   \gtab{E&}{6:X02220}
   \gtab{A&}{4:022100}
   \gtab{Fm}{1:022000}
+  \utab{Fm}{1013}
   \gtab{Fm7}{1:020000}
+  \utab{Fm7}{1:0202}
 
   \begin{verse}
     Et mainte\[C]nant que vais je fai\[F]re\[C]

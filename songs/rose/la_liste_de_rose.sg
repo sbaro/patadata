@@ -6,15 +6,24 @@
   \cover
   \capo{3}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{D7}{X00212}
+  \utab{D7}{2:0001}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab*{G4}{320503}
   \gtab{Am7}{002010}
+  \utab{Am7}{0000}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
   \gtab{Bm7}{2:002010}
+  \utab{Bm7}{2:0000}
 
   \begin{verse*}
     \musicnote {\Intro : \nolyrics \[G G4 G]}

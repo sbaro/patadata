@@ -5,16 +5,24 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab*{Cmaj7}{X32000}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Dm7}{XX0211}
+  \utab{Dm7}{1:1102}
   \gtab*{F/C}{X33111}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab*{C/G}{332010}
   \gtab{G7}{320001}
+  \utab{G7}{0212}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{E7}{020130}
+  \utab{E7}{1202}
 
   \beginverse
     \[C] Imagine there's \[Cmaj7]no heave\[F]n

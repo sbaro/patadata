@@ -5,11 +5,17 @@
 
   \cover
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{G7}{320001}
+  \utab{G7}{0212}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
 
   \begin{verse*}
     \musicnote{\Rythm: \lilypond{Stuck_in_the_middle} }

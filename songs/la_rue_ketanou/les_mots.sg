@@ -6,8 +6,11 @@
 
   \cover
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{Dm}{5:X02210}
+  \utab{Dm}{2210}
   \gtab{A7}{5:020100}
+  \utab{A7}{0100}
 
   \textnote[english]{spoken}
   \textnote[french]{parlé}

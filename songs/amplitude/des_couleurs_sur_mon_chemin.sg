@@ -4,10 +4,15 @@
   by={Amplitude}]
 
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{B}{2:X02220}
+  \utab{B}{2:2100}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
 
   \begin{verse}
     \[F#m]Tant de moments parta\[A]gés

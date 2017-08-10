@@ -7,10 +7,14 @@
   \gtab{E&}{XX1343}
   \gtab{A&}{4:022100}
   \gtab{Fm}{1:022000}
+  \utab{Fm}{1013}
   \gtab{B&}{1:X02220}
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \gtab{Fm7}{1:020000}
+  \utab{Fm7}{1:0202}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \utab{E&}{1:2220}
   \utab{A&}{3:2010}
   \utab{Fm}{1013}

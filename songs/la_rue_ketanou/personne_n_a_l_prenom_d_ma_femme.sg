@@ -6,10 +6,15 @@
 
   \cover
   \gtab{Dm}{5:X02210}
+  \utab{Dm}{2210}
   \gtab{Am}{5:022000}
+  \utab{Am}{2000}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
   \gtab{C}{3:X02220}
+  \utab{C}{0003}
 
   \begin{verse}
     Docteur, \[Dm]paraît qu'vous êtes docteur

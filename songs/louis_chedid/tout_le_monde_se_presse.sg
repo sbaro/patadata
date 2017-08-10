@@ -7,11 +7,15 @@
   \gtab*{C7/9}{3:X02000}
   \gtab*{C7/9}{3:X2123X}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{F7}{1:020100}
+  \utab{F7}{2310}
   \gtab*{F7/9}{8:X02000}
   \gtab*{D7/9}{5:X2123X}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
   \gtab{C7}{X32310}
+  \utab{C7}{0001}
   \gtab*{C#dim}{XX2323}
   \gtab*{Gm7}{XX3333}
   \gtab*{G7/5#}{XX3443}

@@ -5,9 +5,13 @@
 
   \cover
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{C#m}{4:X02210}
+  \utab{C#m}{1104}
   \gtab{G#}{4:022100}
+  \utab{G#}{3:2010}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
 
   \begin{verse}
     \[E]This day is getting ol\[C#m]der

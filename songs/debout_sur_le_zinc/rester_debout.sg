@@ -6,17 +6,26 @@
 
   \cover
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{B&}{1:X02220}
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{C#}{4:X02220}
+  \utab{C#}{1:0003}
   \gtab{Fm}{1:022000}
+  \utab{Fm}{1013}
   \gtab{B&m}{1:X02210}
   \gtab{F#}{2:022100}
+  \utab{F#}{1:2010}
   \gtab{E&}{6:X02220}
   \gtab{G#}{4:022100}
+  \utab{G#}{3:2010}
 
   \begin{verse}
     \[F]{J'ai} trou\[C]vé devant \[Dm]mes yeux ce \[A]matin

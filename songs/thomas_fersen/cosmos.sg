@@ -5,11 +5,17 @@
 
   \cover
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{C#m}{4:X02210}
+  \utab{C#m}{1104}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{B7}{2:X02020}
+  \utab{B7}{2:0100}
   \gtab{G#m}{4:022000}
+  \utab{G#m}{1:0231}
 
 
   \begin{verse*}

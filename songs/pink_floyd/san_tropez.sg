@@ -5,11 +5,15 @@
 
   \cover
   \gtab{D7}{3:X2120X}
+  \utab{D7}{2:0001}
   \gtab{GM7}{3:021100}
   \gtab{Gm6}{312333}
   \gtab{G7}{3:020100}
+  \utab{G7}{0212}
   \gtab{C7}{X32310}
+  \utab{C7}{0001}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
 
   \begin{verse*}
     \musicnote{\Intro : \nolyrics{\[D7]}}

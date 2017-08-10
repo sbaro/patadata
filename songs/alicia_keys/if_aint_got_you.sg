@@ -5,11 +5,17 @@
 
   \cover
   \gtab{G7}{320001}
+  \utab{G7}{0212}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{C7}{X32310}
+  \utab{C7}{0001}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
 
   \begin{verse}
     \[G7]Some people \[Bm]live for the \[Em]fortune

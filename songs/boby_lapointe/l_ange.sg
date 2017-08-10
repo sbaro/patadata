@@ -5,9 +5,13 @@
 
   \cover
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{D7}{X00212}
+  \utab{D7}{2:0001}
   \gtab{Am7}{002010}
+  \utab{Am7}{0000}
 
   \begin{chorus}
     \[G]{Su' l'trottoir,} j'ai \[C]rencontré

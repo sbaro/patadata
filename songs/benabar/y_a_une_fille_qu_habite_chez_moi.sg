@@ -6,13 +6,17 @@
   \cover
   %verse
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \gtab{Fm}{1:022000}
+  \utab{Fm}{1013}
   \gtab{E&}{6:X02220}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
   %chorus
   \gtab*{Fm*}{8:X02210}
   \gtab{B&}{6:022100}
   \gtab{C}{8:022100}
+  \utab{C}{0003}
   \gtab*{Cm*}{8:022000}
 
   \begin{verse}

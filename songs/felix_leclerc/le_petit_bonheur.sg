@@ -5,10 +5,15 @@
 
   \cover
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
 
   \begin{verse}
     C'é\[Gm]{tait un} p'tit bonheur

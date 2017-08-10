@@ -6,11 +6,17 @@
   \cover
   \capo{1}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{G#}{4:022100}
+  \utab{G#}{3:2010}
   \gtab{F#}{2:022100}
+  \utab{F#}{1:2010}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
 
   \begin{verse*}
     \musicnote {\Intro : \nolyrics \[F G{\shrp} G{\shrp} G F{\shrp}] \[F G{\shrp} G{\shrp} G {\shrp} F] }

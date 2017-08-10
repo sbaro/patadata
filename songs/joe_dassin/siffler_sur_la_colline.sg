@@ -6,11 +6,17 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G7}{320001}
+  \utab{G7}{0212}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
 
 
   \begin{chorus}

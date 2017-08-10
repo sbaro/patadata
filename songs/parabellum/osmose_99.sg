@@ -5,11 +5,13 @@
 
   \cover
   \gtab{C}{3:X02220}
+  \utab{C}{0003}
   \gtab{A&}{4:022100}
   \gtab{E&}{6:X02220}
   \gtab{B&}{6:022100}
   \gtab{D&}{4:X02220}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
   \gtab{C5}{3:X02XXX}
   \gtab{A&5}{4:02XXXX}
   \gtab{E&5}{6:X02XXX}

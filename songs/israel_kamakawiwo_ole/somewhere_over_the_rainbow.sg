@@ -6,11 +6,16 @@
   \cover
   \capo{5}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab*{Em7}{020030}
   \gtab{Bm7}{2:002010}
+  \utab{Bm7}{2:0000}
   \gtab{G}{320033}
+  \utab{G}{0232}
 
   \begin{verse*}
     \musicnote{\Intro}

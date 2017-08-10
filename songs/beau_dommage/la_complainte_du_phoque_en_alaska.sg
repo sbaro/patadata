@@ -6,15 +6,25 @@
   \cover
   \capo{3}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
   \gtab{G7}{320001}
+  \utab{G7}{0212}
   \gtab{B7}{2:X02020}
+  \utab{B7}{2:0100}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
 
   \begin{verse}
     Cré-\[C]moé, cré-moi pas

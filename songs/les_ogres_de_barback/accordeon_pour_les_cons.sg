@@ -6,11 +6,17 @@
 
   \cover
   \gtab{Dm}{5:X02210}
+  \utab{Dm}{2210}
   \gtab{A7}{5:020100}
+  \utab{A7}{0100}
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
   \gtab{C}{3:X02220}
+  \utab{C}{0003}
   \gtab{A#}{6:022100}
+  \utab{A#}{1:2100}
 
   \begin{verse}
     \[Dm]Nous on adore les vo\[A7]yages bien qu'on ne voyage pas sou\[Dm]vent, an\[A7]han, an\[Dm]han

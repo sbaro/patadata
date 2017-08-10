@@ -5,11 +5,16 @@
 
   \cover
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab*{D4}{XX0233}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab*{Emadd9}{022002}
   \gtab*{Em*}{022003}
 

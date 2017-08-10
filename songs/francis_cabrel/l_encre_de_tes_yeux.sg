@@ -6,13 +6,20 @@
   \cover
   \capo{4}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{C7}{X32310}
+  \utab{C7}{0001}
   \gtab*{Dm11}{XX0011}
   \gtab{Am7}{X02010}
+  \utab{Am7}{0000}
 
   \begin{chorus}
     \musicnote{\Intro : \nolyrics{\[C G Am Am F C G G C G Am]}}

@@ -6,8 +6,11 @@
 
   \cover
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
   \gtab{C}{X32010}
+  \utab{C}{0003}
 
   \lilypond{Les_souliers_rouges}
 

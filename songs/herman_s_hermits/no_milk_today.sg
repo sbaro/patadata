@@ -5,13 +5,21 @@
 
   \cover
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
 
   \begin{verse}
     \[Am]No milk today, my \[C]love has gone away

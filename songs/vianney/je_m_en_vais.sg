@@ -6,9 +6,12 @@
   \cover
   \capo{3}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{D4}{X54030}
   \gtab{Bm}{X13321}
+  \utab{Bm}{2:2000}
   [G]
 
   \musicnote{\Intro :{\[Em C D4 Em C D4 Em}}

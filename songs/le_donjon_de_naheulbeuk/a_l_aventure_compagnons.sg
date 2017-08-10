@@ -7,8 +7,11 @@
   \cover
   \capo{3}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
 
   \lilypond{A_l_aventure_compagnons}
 

@@ -9,12 +9,19 @@
 
   \cover
   \gtab{G}{320001}
+  \utab{G}{0232}
   \gtab{B7}{X21201}
+  \utab{B7}{2:0100}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{D7}{XX0212}
+  \utab{D7}{2:0001}
   \gtab{F#7}{2:020130}
+  \utab{F#7}{1:2310}
   \gtab{Bm7}{2:X02010}
+  \utab{Bm7}{2:0000}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
 
   \begin{verse}
     Tu \[G]{dis que} le traî\[B7]neau de nos a\[C]mours est dans la \[G]cour

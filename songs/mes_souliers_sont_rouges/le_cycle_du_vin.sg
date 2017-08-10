@@ -6,15 +6,25 @@
 
   \cover
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{C}{332010}
+  \utab{C}{0003}
   \gtab{A7}{X02223}
+  \utab{A7}{0100}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{B}{2:X02220}
+  \utab{B}{2:2100}
   \gtab{F#}{2:022100}
+  \utab{F#}{1:2010}
 
   \begin{verse}
     \[Am]La terre en \[Dm]vigne, la voi\[F]là la jolie \[Am]vi\[E]gne \rep{2}

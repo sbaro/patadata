@@ -5,15 +5,24 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
   \gtab{Fm}{1:022000}
+  \utab{Fm}{1013}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{B&7}{1:X02020}
   \gtab{C7}{X32310}
+  \utab{C7}{0001}
 
   \begin{verse}
     \[C] La lumière revient déjà

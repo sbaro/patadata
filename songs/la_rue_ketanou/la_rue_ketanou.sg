@@ -6,10 +6,13 @@
 
   \cover
   \gtab{Fm}{8:X02210}
+  \utab{Fm}{1013}
   \gtab{A&}{4:022100}
   \gtab{B&m}{6:022000}
   \gtab{C#}{4:X02220}
+  \utab{C#}{1:0003}
   \gtab{D#}{6:X02220}
+  \utab{D#}{1:2220}
 
   \begin{chorus}
     \[Fm]{C'est} pas nous qui sommes à la rue

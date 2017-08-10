@@ -7,10 +7,15 @@
   \cover
   \capo{2}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
   \gtab{C}{X32010}
+  \utab{C}{0003}
 
   \begin{verse*}
   \musicnote{\Intro : \nolyrics{\[A]}}

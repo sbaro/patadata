@@ -7,10 +7,15 @@
   \capo{1}
   \gtab{G*}{X23230}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{B7}{X212020}
+  \utab{B7}{2:0100}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \gtab{G7}{320001}
+  \utab{G7}{0212}
 
   \begin{verse*}
     \musicnote{\Intro: \nolyrics \[C B7 G* A7 Cm G7 Em Em7 \rep{2}]}

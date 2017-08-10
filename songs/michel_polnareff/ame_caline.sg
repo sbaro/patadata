@@ -5,11 +5,17 @@
 
   \cover
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{G#m}{4:002200}
+  \utab{G#m}{1:0231}
   \gtab{B}{2:003330}
+  \utab{B}{2:2100}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{A}{002220}
+  \utab{A}{2100}
   \gtab{C+5}{X32110}
 
   \MultiwordChords 

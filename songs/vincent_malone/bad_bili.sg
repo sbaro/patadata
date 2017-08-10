@@ -5,11 +5,17 @@
 
   \cover
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{F7}{1:020100}
+  \utab{F7}{2310}
   \gtab{G7}{3:020100}
+  \utab{G7}{0212}
   \gtab{D7}{3:X2120X}
+  \utab{D7}{2:0001}
 
   \begin{verse*}
     \[Am]{C'était} par un beau jour de septembre

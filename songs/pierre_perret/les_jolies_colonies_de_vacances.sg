@@ -5,12 +5,17 @@
 
   \cover
   \gtab{C}{3:X02220}
+  \utab{C}{0003}
   \gtab{G}{3:02210}
+  \utab{G}{0232}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{E&}{6:X02220}
   \gtab{B&}{6:022100}
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \gtab{Fm}{8:X02210}
+  \utab{Fm}{1013}
 
   \begin{chorus}
     \[C]Les jolies colonies de vacances

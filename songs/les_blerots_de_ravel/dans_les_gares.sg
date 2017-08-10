@@ -5,9 +5,13 @@
 
   \cover
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \gtab{D}{5:X02220}
+  \utab{D}{2220}
   \gtab{Fm}{1:022000}
+  \utab{Fm}{1013}
   \gtab{G}{3:022100}
+  \utab{G}{0232}
 
   \begin{verse}
     Dans les \[Cm]gares moi c'que \[D]{j'aime}

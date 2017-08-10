@@ -5,14 +5,23 @@
 
   \cover
   \gtab{C#m}{4:X02210}
+  \utab{C#m}{1104}
   \gtab{F#m}{2:022000}
+  \utab{F#m}{2120}
   \gtab{G#}{4:022100}
+  \utab{G#}{3:2010}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{A7}{5:020100}
+  \utab{A7}{0100}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
   \gtab{Dm}{5:X02210}
+  \utab{Dm}{2210}
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{A#}{6:022100}
+  \utab{A#}{1:2100}
 
   \begin{verse}
     \[C#m]C'est l'histoire d'une \[F#m]montgolfière

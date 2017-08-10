@@ -5,17 +5,26 @@
 
   \cover
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab*{F#m}{X4420X}
   \gtab{Bm}{1:X02210}
+  \utab{Bm}{2:2000}
   \gtab{E7}{022130}
+  \utab{E7}{1202}
   \gtab*{Fmaj7}{XX3210}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320001}
+  \utab{G}{0232}
   \gtab{F}{1:0221000}
+  \utab{F}{2010}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab*{C/B*}{X20010}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
 
   \musicnote{En arpège jusqu'au début du 1\ier{} refrain.
   3\ieme{} couplet en arpège jusqu'à «~Maybe Black Mesa~».

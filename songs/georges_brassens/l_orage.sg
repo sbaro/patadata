@@ -5,11 +5,17 @@
 
   \cover
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{F#7}{2:020100}
+  \utab{F#7}{1:2310}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
   \gtab{C#7}{X4342X}
+  \utab{C#7}{1:0001}
 
   \begin{verse}
     Parlez-moi \[Em]{de la pluie} et non pas du beau temps

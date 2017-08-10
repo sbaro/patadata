@@ -5,11 +5,17 @@
 
   \cover
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
 
   \begin{verse}
     \[G]Tu étais venue en car \[D]au cœur du mois d'août \echo{ou-\[Em]ouh}

@@ -5,12 +5,19 @@
 
   \cover
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{E7}{020100}
+  \utab{E7}{1202}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{A}{X02220}
+  \utab{A}{2100}
   \gtab{A7}{X02020}
+  \utab{A7}{0100}
   \utab{Am}{2000}
   \utab{Dm}{2210}
   \utab{E7}{1202}

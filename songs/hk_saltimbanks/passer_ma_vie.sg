@@ -6,9 +6,13 @@
 
   \cover
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{G}{320003}
+  \utab{G}{0232}
 
   \begin{verse}
     Passer ma \[C]vie sur les routes, nomade, tel un vagabond

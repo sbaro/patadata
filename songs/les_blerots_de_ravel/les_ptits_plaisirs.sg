@@ -5,12 +5,19 @@
 
   \cover
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \gtab{D7}{3:X2120X}
+  \utab{D7}{2:0001}
   \gtab{G}{3:X02210}
+  \utab{G}{0232}
   \gtab{Fm}{1:022000}
+  \utab{Fm}{1013}
   \gtab{D#}{6:X02220}
+  \utab{D#}{1:2220}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
   \gtab{D}{5:X02220}
+  \utab{D}{2220}
 
   \begin{verse}
     \[Cm]À se promener sur les quais

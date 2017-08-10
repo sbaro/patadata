@@ -6,10 +6,14 @@
 
   \cover
   \gtab{Dm}{5:X02210}
+  \utab{Dm}{2210}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
   \gtab{B&}{6:022100}
   \gtab{F}{8:X02220}
+  \utab{F}{2010}
   \gtab{C}{8:022100}
+  \utab{C}{0003}
 
   \begin{verse}
     Les p'tits \[Dm]gars de la gare de Caen ont des ci\[A]catrices plein la gueule

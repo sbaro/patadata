@@ -7,21 +7,32 @@
   \cover
 
   \gtab{C}{X32010}
+  \utab{C}{0003}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab{Bm}{2:X02210}
+  \utab{Bm}{2:2000}
   \gtab{G/B}{X2000X}
   \gtab{D4}{X00233}
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab{Em}{022000}
+  \utab{Em}{0432}
   \gtab{Dm}{XX0231}
+  \utab{Dm}{2210}
   \gtab{Cm}{X35543}
+  \utab{Cm}{0333}
   \gtab{C9}{000210}
   \gtab{D/F#}{200XXX}
   \gtab{Am7}{X02010}
+  \utab{Am7}{0000}
   \gtab{E}{022100}
+  \utab{E}{2:2220}
   \gtab{E&}{XX1343}
   \gtab{F}{1:022100}
+  \utab{F}{2010}
 
   \beginverse*
     \nolyrics{\[G Bm C G]}

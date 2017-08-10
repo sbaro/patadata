@@ -6,10 +6,15 @@
 
   \cover
   \gtab{Dm}{5:X02210}
+  \utab{Dm}{2210}
   \gtab{Am}{5:022000}
+  \utab{Am}{2000}
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{E7}{5:X2120X}
+  \utab{E7}{1202}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
 
   \begin{verse}
     Vois-\[Dm]tu mon vieux Jean-Louis

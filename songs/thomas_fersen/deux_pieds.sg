@@ -5,10 +5,15 @@
 
   \cover
   \gtab{Fm}{1:022000}
+  \utab{Fm}{1013}
   \gtab{D#}{3:X32010}
+  \utab{D#}{1:2220}
   \gtab{G#}{4:022100}
+  \utab{G#}{3:2010}
   \gtab{C#}{4:X02220}
+  \utab{C#}{1:0003}
   \gtab{Cm}{3:X02210}
+  \utab{Cm}{0333}
   \utab{Fm}{1013}
   \utab{D#}{1:2220}
   \utab{G#}{3:2010}

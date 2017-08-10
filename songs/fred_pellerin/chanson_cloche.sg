@@ -5,10 +5,15 @@
 
   \cover
   \gtab{Dm}{5:002210}
+  \utab{Dm}{2210}
   \gtab{Gm}{3:022000}
+  \utab{Gm}{0231}
   \gtab{G#}{4:022100}
+  \utab{G#}{3:2010}
   \gtab{A}{5:022100}
+  \utab{A}{2100}
   \gtab{A#}{6:022100}
+  \utab{A#}{1:2100}
 
   \begin{verse*}
     \musicnote{\Intro : \nolyrics \[Dm Dm A Dm] -- \[Dm Dm A] break}

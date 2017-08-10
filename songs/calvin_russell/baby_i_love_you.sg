@@ -5,12 +5,16 @@
 
   \cover
   \gtab{D}{XX0232}
+  \utab{D}{2220}
   \gtab*{D4}{XX0233}
   \gtab{Am}{X02210}
+  \utab{Am}{2000}
   \gtab*{A4}{X02230}
   \gtab{G}{320003}
+  \utab{G}{0232}
   \gtab*{G4}{320013}
   \gtab{C}{X32010}
+  \utab{C}{0003}
 
   \begin{verse*}
     \musicnote{ \Intro: \nolyrics{ \[D] \[D4] \[Am] \[A4] \[G] \[G4] \[D] } }
