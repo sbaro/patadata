@@ -1,3 +1,8 @@
 #!/bin/bash
-# Usage : gui2uke.sh songs
-find "$1" -name "*.sg" -exec sed -f gui2uke.sed -i.bak {} \;
+# Usage: gui2uke.sh script.sed songs
+
+if [ "$#" -ne 2 ] ; then
+    echo "Usage: gui2uke.sh script.sed songs" >&2
+    exit 1
+fi
+find "$2" -name "*.sg" -exec sed -f "$1" -i.bak {} \;
